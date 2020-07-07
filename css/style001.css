@@ -1,0 +1,104 @@
+
+.button1{ 
+    box-shadow:inset 0px 2px 8px -5px #fff4d1;
+    background:linear-gradient(to bottom, #facd89 5%, #ebb07c 100%); 
+    background-color:#facd89; 
+    border-radius:6px; 
+    border:1px solid #acb090; 
+    display:inline-block; 
+    cursor:pointer; 
+    color:#f38150; 
+    font-family:Lithos Pro;
+    src: url('LITHOSPRO-REGULAR.OTF');
+    font-size:28px;
+    font-weight:REGULAR;
+    padding:9px 34px;
+    text-decoration:none;
+    text-shadow:0px 0px 0px #d9d9c1; 
+    position: absolute;
+    top: 70%;
+    margin-left: 40%;
+    } 
+.button1:hover { 
+    background:linear-gradient(to bottom, #ebb07c 5%, #facd89 100%); 
+    background-color:#ebb07c; 
+    }
+
+.h1{font-family:Lithos Pro;
+    src: url('LITHOSPRO-REGULAR.OTF');
+    font-weight:REGULAR;
+    font-size:240%;
+    color:#5e4b44;
+    margin-top: 3%;
+    margin-left: 4%;
+}
+
+#button2 { 
+    box-shadow:inset 0px 2px 8px -5px #fff4d1;
+    background:linear-gradient(to bottom, #facd89 5%, #ebb07c 100%); 
+    background-color:#facd89; 
+    border-radius:6px; 
+    border:1px solid #acb090; 
+    display:inline-block; 
+    cursor:pointer; 
+    color:#f38150; 
+    font-family:Lithos Pro;
+    src: url('LITHOSPRO-REGULAR.OTF');
+    font-size:10px;
+    font-weight:REGULAR;
+    padding:7px 15px 9px 15px;
+    text-shadow:0px 0px 0px #d9d9c1; 
+    position: absolute;
+    top:70%;
+    margin-left: 52%;
+}
+#button2:hover { 
+    background:linear-gradient(to bottom, #ebb07c 5%, #facd89 100%); 
+    background-color:#ebb07c; 
+    }
+
+#test {
+    color:#ab8c78; 
+    font-family:Lithos Pro;
+    src: url('LITHOSPRO-REGULAR.OTF');
+    font-size:250%;
+    font-weight:bold;
+
+}
+
+#test2 {
+    color:#ab8c78; 
+    font-family:Lithos Pro;
+    src: url('LITHOSPRO-REGULAR.OTF');
+    font-size:250%;
+    font-weight:bold;
+}
+
+#testA {
+    color:#ab8c78; 
+    font-family:Lithos Pro;
+    src: url('LITHOSPRO-REGULAR.OTF');
+    font-size:100%;
+    font-weight:REGULAR;
+}
+
+#head {
+    color:#ab8c78; 
+    font-family:Lithos Pro;
+    src: url('LITHOSPRO-REGULAR.OTF');
+    font-size:240%;
+    font-weight:BOLD;
+    position:absolute; 
+    top:3%; 
+    margin-left:43%;
+}
+
+#testA2 {
+    color:#ab8c78; 
+    font-family:Lithos Pro;
+    src: url('LITHOSPRO-REGULAR.OTF');
+    font-size:100%;
+    font-weight:REGULAR;
+}
+
+

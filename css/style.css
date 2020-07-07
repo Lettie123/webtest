@@ -1,0 +1,43 @@
+
+.button {
+    box-shadow:inset 0px 0px 14px -3px #ffd7d1; 
+    background:linear-gradient(to bottom, #ec4021 5%, #ed8c7d 100%); 
+    background-color:#ec4021;
+    border-radius:6px; 
+    border:1px solid #b09490; 
+    display:inline-block; 
+    cursor:pointer; 
+    color:#fcd9b6;
+    font-family:Lithos Pro; 
+    src: url('LITHOSPRO-REGULAR.OTF');
+    font-size:180%;
+    font-weight:REGULAR; 
+    padding:9px 34px; 
+    text-decoration:none; 
+    text-shadow:0px 1px 0px #d9c1c1;
+    width: 200px;
+    height: 50px;
+    margin-top: 8%;
+    margin-left: 50%;
+    position: relative;
+    }
+
+.button:hover { 
+    background:linear-gradient(to bottom, #ed8c7d 5%, #ec4021 100%); 
+    background-color:#ed8c7d; }
+   
+.button:active { position:relative; top:1px; }
+
+.h1{
+    font-family:Lithos Pro;
+    src: url('LITHOSPRO-REGULAR.OTF');
+    font-weight:REGULAR;
+    font-size:290%;
+    color:black;
+    margin-top: 20%;
+    margin-left: 48%;
+  }
+
+ 
+  
+
